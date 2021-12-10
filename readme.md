@@ -8,3 +8,5 @@
 ## jsonwebtoken
 ## mongoose
 ## request
+
+## npm i -D nodemon concurrently
